@@ -1,0 +1,35 @@
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_24VK Output|SchDesignator=U_SEC_3002_DZ_24VK Output|FileName=SEC_3002_DZ_24VK Output.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_24VK Output.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_Eather Fault Check|SchDesignator=U_SEC_3002_DZ_Eather Fault Check|FileName=SEC_3002_DZ_Eather Fault Check.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_Eather Fault Check.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_F|SchDesignator=U_SEC_3002_DZ_F|FileName=SEC_3002_DZ_F.P.E Output.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_F.P.E Output.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_Fault Output|SchDesignator=U_SEC_3002_DZ_Fault Output|FileName=SEC_3002_DZ_Fault Output.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_Fault Output.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_Fire Alarm Output|SchDesignator=U_SEC_3002_DZ_Fire Alarm Output|FileName=SEC_3002_DZ_Fire Alarm Output.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_Fire Alarm Output.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_MCU|SchDesignator=U_SEC_3002_DZ_MCU|FileName=SEC_3002_DZ_MCU.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_MCU.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_DZ_S|SchDesignator=U_SEC_3002_DZ_S|FileName=SEC_3002_DZ_S.C.Output.sch|SymbolType=Normal|RawFileName=SEC_3002_DZ_S.C.Output.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_HL_Loop1|SchDesignator=U_SEC_3002_HL_Loop1|FileName=SEC_3002_HL_Loop1.SchDoc|SymbolType=Normal|RawFileName=SEC_3002_HL_Loop1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_HL_LoopOpenCheck&Switch|SchDesignator=U_SEC_3002_HL_LoopOpenCheck&Switch|FileName=SEC_3002_HL_LoopOpenCheck&Switch.sch|SymbolType=Normal|RawFileName=SEC_3002_HL_LoopOpenCheck&Switch.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_HL_MAIN|SchDesignator=U_SEC_3002_HL_MAIN|FileName=SEC_3002_HL_MAIN.sch|SymbolType=Normal|RawFileName=SEC_3002_HL_MAIN.sch|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=SEC_3002_DZ&HL.SchDoc|Designator=U_SEC_3002_HL_Power|SchDesignator=U_SEC_3002_HL_Power|FileName=SEC_3002_HL_Power.SchDoc|SymbolType=Normal|RawFileName=SEC_3002_HL_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=SubProject|ProjectPath=resister
+Record=TopLevelDocument|FileName=SEC_3002_DZ&HL.SchDoc

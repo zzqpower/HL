@@ -1,0 +1,89 @@
+Protel Design System Design Rule Check
+PCB File : F:\项目\07.LPCB控制系统\0.1 硬件设计\SEC_3002 PCB\SEC-3002_DZ&HL V0.1\工程文件\SEC_3002_DZ&HL.PcbDoc
+Date     : 2016-8-1
+Time     : 12:03:05
+
+Processing Rule : Clearance Constraint (Gap=1.27mm) (InPolygon),(HasFootprint('MSM110'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InPolygon),((IsTrack AND OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.5mm) (InPolygon),(InNet('EATHER GND') or InNet('EARTH_EXT') or InNet('EARTH_EXT1') or InNet('EARTH_EXT2'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3.302mm) (InPolygon),(InNet('EARTH_EXT'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5.08mm) (InPolygon),((IsArc AND OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (IsPad  And    InComponent('U3')),(IsPad  And    InComponent('U3'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.381mm) (InNet('+24V')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InComponent('JP1')),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (IsVia),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (IsComponent),((OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (IsTrack),((OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.381mm) (IsVia),(IsPad)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.305mm) (Max=8mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=2.54mm) (Preferred=0.508mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.762mm) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.27mm) ((InPolygon AND OnLayer('Vcc And Signal Layer'))),((IsArc AND OnLayer('Keep-Out Layer')))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.508mm) (InNet('+24V')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.508mm) (InNet('+24V_IN')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.016mm) ((IsRegion AND InNet('GND'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.016mm) (InNet('+24V')  or InNet('+24VOUT')),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1.016mm) (InNet('+24V_IN')),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (OnLayer('Keep-Out Layer')),(InNet('EATHER GND'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:12
